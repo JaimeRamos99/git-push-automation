@@ -14,6 +14,6 @@ If you are pushing to a remote repo always like:
 Just add it to your root repo and run the following:
 
 ```
-    sh easier_push.sh &lt;commit message> 
+ sh easier_push.sh <commit message> 
 ```
 
